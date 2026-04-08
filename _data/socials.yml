@@ -4,7 +4,7 @@
 cv_pdf: /assets/pdf/Charles_Brammell_Resume.pdf # path to your CV PDF file
 email: chb0055@auburn.edu # your email address
 linkedin_username: charles-brammell
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
 # Replace these values only if you use the corresponding academic profile services
 # inspirehep_id: 1010907 # your Inspire HEP author ID
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
