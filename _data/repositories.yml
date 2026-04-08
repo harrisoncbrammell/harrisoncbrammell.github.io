@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - harrisoncbrammell
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - harrisoncbrammell/dynamic-memory-access-POC
+  - harrisoncbrammell/HB-823-cpu
+  - harrisoncbrammell/dynamic-memory-access-POC
+  - qMRLab/qMRLab
+  - harrisoncbrammell/slice_viewer_game
+  - harrisoncbrammell/aes-verilog
+  - harrisoncbrammell/balance-beam
+
+
