@@ -7,15 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## GitHub users
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
+<img src="http://ghchart.rshah.org/harrisoncbrammell" alt="harrisoncbrammell's GitHub contributions" />
 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
