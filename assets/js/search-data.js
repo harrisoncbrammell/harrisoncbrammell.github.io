@@ -490,6 +490,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/charles-brammell", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/harrisoncbrammell", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
