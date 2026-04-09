@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
+permalink: /open-source/
+title: open source
 description: A curated showcase of my public GitHub work in computer engineering, MRI research, and hardware/software design.
 nav: true
 nav_order: 4
@@ -10,8 +10,9 @@ nav_order: 4
 I deeply value open-source software and am committed to actively contributing to the community. My experience spans a wide variety of fields and technologies, including computer engineering, hardware design, embedded systems, MRI research, and web development. 
 
 My recent Github activity:
+
 <div class="text-center mt-4 mb-4">
-  <img src="https://grass-graph.app/images/harrisoncbrammell.png" alt="harrisoncbrammell's GitHub contributions" class="img-fluid" />
+  <img src="https://ghchart.rshah.org/harrisoncbrammell" alt="harrisoncbrammell's GitHub contributions" class="img-fluid" />
 </div>
 
 {% if site.repo_trophies.enabled %}
