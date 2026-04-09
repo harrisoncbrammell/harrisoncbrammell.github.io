@@ -6,7 +6,6 @@ repo_description_lines_max: 2
 github_repos:
   - harrisoncbrammell/dynamic-memory-access-POC
   - harrisoncbrammell/HB-823-cpu
-  - harrisoncbrammell/dynamic-memory-access-POC
   - qMRLab/qMRLab
   - harrisoncbrammell/slice_viewer_game
   - harrisoncbrammell/aes-verilog

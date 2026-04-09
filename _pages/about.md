@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Computer Engineering</a>. Research. Hardware. Software.
+subtitle: Research. Hardware. Software.
 
 profile:
   align: right
