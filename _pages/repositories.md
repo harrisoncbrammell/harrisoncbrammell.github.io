@@ -7,6 +7,9 @@ nav: true
 nav_order: 4
 ---
 
+I deeply value open-source software and am committed to actively contributing to the community. My experience spans a wide variety of fields and technologies, including computer engineering, hardware design, embedded systems, MRI research, and web development. 
+
+My recent Github activity:
 <div class="text-center mt-4 mb-4">
   <img src="https://grass-graph.app/images/harrisoncbrammell.png" alt="harrisoncbrammell's GitHub contributions" class="img-fluid" />
 </div>
