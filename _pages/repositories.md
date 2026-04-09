@@ -7,7 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-<img src="https://ghchart.rshah.org/harrisoncbrammell" alt="harrisoncbrammell's GitHub contributions" />
+<div class="text-center mt-4 mb-4">
+  <img src="https://grass-graph.app/images/harrisoncbrammell.png" alt="harrisoncbrammell's GitHub contributions" class="img-fluid" />
+</div>
 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
