@@ -2,12 +2,10 @@
 layout: page
 permalink: /open-source/
 title: open source
-description: A curated showcase of my public GitHub work in computer engineering, MRI research, and hardware/software design.
+description: Free and Open Source Software is something I strongly believe in and hold close to heart. Below is a curated showcase of my public GitHub work in computer engineering, MRI research, and hardware/software design.
 nav: true
 nav_order: 4
 ---
-
-I deeply value open-source software and am committed to actively contributing to the community. My experience spans a wide variety of fields and technologies, including computer engineering, hardware design, embedded systems, MRI research, and web development. 
 
 My recent Github activity:
 

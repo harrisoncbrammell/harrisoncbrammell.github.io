@@ -7,16 +7,15 @@ first_name: Charles
 middle_name: Harrison
 last_name: Brammell
 contact_note: >
-  Reach out by email at chb0055@auburn.edu or via LinkedIn at linkedin.com/in/charles-brammell.
+  Reach out by email at <a href="mailto:chb0055@auburn.edu">chb0055@auburn.edu</a> or via LinkedIn at <a href="https://www.linkedin.com/in/charles-brammell" target="_blank" rel="noopener noreferrer">linkedin.com/in/charles-brammell</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Computer Engineering student at Auburn University with hands-on experience in MRI reconstruction research, digital hardware design, and software analytics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: computer engineering, MRI research, hardware design, FPGA, software analytics, Auburn University, embedded systems
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon-mri.png # image favicon stored in /assets/img/
 
 url: https://chbrammell.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

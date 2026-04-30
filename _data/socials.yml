@@ -5,6 +5,7 @@ cv_pdf: /assets/pdf/Charles_Brammell_Resume.pdf # path to your CV PDF file
 email: chb0055@auburn.edu # your email address
 linkedin_username: charles-brammell
 github_username: harrisoncbrammell
+orcid_id: 0009-0002-6051-9069
 
 # rss_icon: true # comment this line to hide the RSS icon
 # Replace these values only if you use the corresponding academic profile services

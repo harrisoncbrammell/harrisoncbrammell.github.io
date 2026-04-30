@@ -9,10 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5918 Laurel Street</p>
-    <p>New Orleans, LA 70115</p>
-    <p>chb0055@auburn.edu</p>
-    <p>504-812-3125</p>
+    <p><a href="mailto:chb0055@auburn.edu">chb0055@auburn.edu</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,4 +31,4 @@ My work spans MRI reconstruction algorithm development, FPGA-based encryption de
 
 Currently, I'm a Research Assistant at the Auburn Neuroimaging Research Center, where I adapt advanced image processing methods for use in muscle tissue and help medical researchers effectively use these results.
 
-If you'd like to connect, email me at chb0055@auburn.edu or reach out via LinkedIn at [linkedin.com/in/charles-brammell](https://www.linkedin.com/in/charles-brammell).
+If you'd like to connect, email me at [chb0055@auburn.edu](mailto:chb0055@auburn.edu) or reach out via LinkedIn at [linkedin.com/in/charles-brammell](https://www.linkedin.com/in/charles-brammell).

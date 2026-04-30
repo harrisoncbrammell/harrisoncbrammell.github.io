@@ -2,7 +2,6 @@ cv:
   name: Charles Harrison Brammell III
   label: Computer Engineering Student
   email: chb0055@auburn.edu
-  phone: 504-812-3125
   location: New Orleans, LA
   image: ""
   summary: I am a Computer Engineering student at Auburn University with hands-on experience in MRI reconstruction research, digital hardware design, and software analytics.
@@ -10,13 +9,6 @@ cv:
   social_networks:
     - network: LinkedIn
       username: charles-brammell
-
-  address:
-    street: 5918 Laurel Street
-    city: New Orleans
-    region: Louisiana
-    postalCode: "70115"
-    countryCode: US
 
   sections:
     Education:
@@ -53,7 +45,7 @@ cv:
           - Prepared instructional materials and trained sales staff on analytics interpretation.
           - Researched custom card processing solutions for client-specific needs.
 
-      - company: D’Livery NOLA
+      - company: D'Livery NOLA
         position: Senior Delivery Agent
         location: New Orleans, Louisiana
         start_date: 2020
@@ -62,19 +54,19 @@ cv:
           - Ensured timely delivery of goods with special handling for temperature-controlled medications.
           - Completed emergency routes outside scheduled hours with minimal notice.
 
-    Involvement:
-      - company: IEEE Eta Kappa Nu Honor Society – Xi Chapter
+      - company: IEEE Eta Kappa Nu Honor Society - Xi Chapter
         position: Vice President
         location: Auburn, Alabama
-        start_date: 2025
-        end_date: Present
+        start_date: 2025-08
+        end_date: 2026-05
         highlights:
-          - Oversaw joint events with student organizations for K-12 outreach and professional development.
-          - Represented chapter to nationals and secured award-based funding.
-          - Recruited and guided new members through society standards.
-          - Organized service opportunities to help members meet volunteer requirements.
+          - Led recruitment efforts for new members and increased chapter engagement.
+          - Planned, organized, and ran chapter meetings and related operations.
+          - Coordinated community outreach initiatives for K-12 and broader engineering engagement.
+          - Built and shared academic resources, including the test bank, for the wider Electrical and Computer Engineering student body.
 
-      - company: Sigma Nu – Beta Theta
+    Involvement:
+      - company: Sigma Nu - Beta Theta
         position: Scholarship Committee Engineering Representative
         location: Auburn, Alabama
         start_date: 2023
@@ -120,4 +112,3 @@ cv:
       - name: Engineering
         icon: fa-solid fa-tag
         keywords: "MRI Research, Digital Hardware, Algorithm Design, Data Analytics, Robotics"
-
