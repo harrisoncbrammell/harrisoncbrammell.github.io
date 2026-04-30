@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-open-source",
           title: "open source",
-          description: "A curated showcase of my public GitHub work in computer engineering, MRI research, and hardware/software design.",
+          description: "Free and Open Source Software is something I strongly believe in and hold close to heart. Below is a curated showcase of my public GitHub work in computer engineering, MRI research, and hardware/software design.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/open-source/";
@@ -405,13 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-i-recently-displayed-my-mri-slicer-vr-game-at-auburn-e-day-teaching-all-ages-k-12-about-medical-imaging-and-sparking-interest-engineering-research-if-you-have-an-meta-quest-check-it-out",
           title: 'I recently displayed my MRI Slicer VR game at Auburn E-Day, teaching all...',
+          description: "",
+          section: "News",},{id: "news-i-m-excited-to-share-that-i-ll-be-starting-my-m-s-in-electrical-and-computer-engineering-at-vanderbilt-university-this-fall",
+          title: 'I’m excited to share that I’ll be starting my M.S. in Electrical and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -495,6 +493,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/harrisoncbrammell", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0002-6051-9069", "_blank");
         },
       },{
       id: 'light-theme',
