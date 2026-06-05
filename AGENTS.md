@@ -108,6 +108,17 @@ Files are named `<N>_project.md` where `N` is a number. The number in the filena
 - Include `{% include figure.liquid ... class="img-fluid rounded z-depth-1" %}` for consistent styling
 - Follow a `<div class="caption">` block with caption text after each row
 
+## Writing Voice
+
+Harrison's writing style for project posts and site copy:
+
+- **First-person, conversational, technically honest** — write like a competent person talking through what they built and what they learned, not a resume.
+- **Light humor, sprinkled in** — not constant jokes, but a dry or self-deprecating line here and there. The "many ways I procrastinate" description for the projects page is a good benchmark for tone.
+- **Acknowledge mistakes and hindsight** — he values candor ("in hindsight I would have...") over polished self-promotion.
+- **Don't over-explain** — assume technical literacy; he's a CS person who sometimes ventures into adjacent domains.
+
+When writing any site copy or project posts, keep this voice in mind. Avoid template-sounding filler text.
+
 ## Common Issues
 
 For troubleshooting, see:
