@@ -78,19 +78,19 @@ Each project is a Markdown file in `_projects/`. Files are sorted by `importance
 
 ### Front Matter Reference
 
-| Field                  | Required | Description                                                                 |
-| ---------------------- | -------- | --------------------------------------------------------------------------- |
-| `layout: page`         | yes      | Always `page`                                                               |
-| `title`                | yes      | Displayed as the card title and page heading                                |
-| `description`          | yes      | Short blurb shown on the card                                               |
-| `importance`           | yes      | Integer — lower number = higher position in the grid                        |
-| `category`             | yes      | Must match a value in `display_categories` in `_pages/projects.md` (currently `work` or `fun`) |
-| `img`                  | no       | Path to thumbnail image (e.g. `assets/img/foo.jpg`); omit for no thumbnail  |
-| `redirect`             | no       | External URL — clicking the card goes here instead of the project page      |
-| `github`               | no       | GitHub repo URL — renders a GitHub icon with link on the card               |
-| `github_stars`         | no       | GitHub repo identifier (e.g. `username/repo`) to display live star count    |
-| `giscus_comments: true`| no       | Enables Giscus comment section at the bottom of the project page            |
-| `related_publications: true` | no | Pulls related bibliography entries onto the project page               |
+| Field                        | Required | Description                                                                                    |
+| ---------------------------- | -------- | ---------------------------------------------------------------------------------------------- |
+| `layout: page`               | yes      | Always `page`                                                                                  |
+| `title`                      | yes      | Displayed as the card title and page heading                                                   |
+| `description`                | yes      | Short blurb shown on the card                                                                  |
+| `importance`                 | yes      | Integer — lower number = higher position in the grid                                           |
+| `category`                   | yes      | Must match a value in `display_categories` in `_pages/projects.md` (currently `work` or `fun`) |
+| `img`                        | no       | Path to thumbnail image (e.g. `assets/img/foo.jpg`); omit for no thumbnail                     |
+| `redirect`                   | no       | External URL — clicking the card goes here instead of the project page                         |
+| `github`                     | no       | GitHub repo URL — renders a GitHub icon with link on the card                                  |
+| `github_stars`               | no       | GitHub repo identifier (e.g. `username/repo`) to display live star count                       |
+| `giscus_comments: true`      | no       | Enables Giscus comment section at the bottom of the project page                               |
+| `related_publications: true` | no       | Pulls related bibliography entries onto the project page                                       |
 
 ### Categories
 
