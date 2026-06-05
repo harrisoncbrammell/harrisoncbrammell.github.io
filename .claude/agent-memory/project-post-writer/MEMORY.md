@@ -1,0 +1,2 @@
+- [User Profile](user-profile.md) — Harrison's background (CS→hardware hobbyist), site structure, and writing tone preferences
+- [Project: 555friend](project-555friend.md) — First PCB project post; KiCad, 555 timer, SMD, filed as fun/importance:1
