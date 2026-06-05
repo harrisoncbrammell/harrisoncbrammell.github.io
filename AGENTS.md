@@ -105,7 +105,7 @@ Files are named `<N>_project.md` where `N` is a number. The number in the filena
 - Store project images in `assets/img/`
 - Use `loading="eager"` for above-the-fold images, lazy loading is enabled site-wide otherwise
 - Wrap images in Bootstrap grid rows: `<div class="row">` → `<div class="col-sm mt-3 mt-md-0">`
-- Include `{% include figure.liquid ... class="img-fluid rounded z-depth-1" %}` for consistent styling
+- Include `{% raw %}{% include figure.liquid ... class="img-fluid rounded z-depth-1" %}{% endraw %}` for consistent styling
 - Follow a `<div class="caption">` block with caption text after each row
 
 ## Writing Voice
