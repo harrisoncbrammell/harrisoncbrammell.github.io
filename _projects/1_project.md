@@ -11,7 +11,7 @@ giscus_comments: true
 
 I skipped analog circuits in undergrad. I was a CS student, I had electives to fill, and "Digital Logic" sounded more immediately useful than "learning how capacitors charge." Years later I keep bumping into the consequences of that decision, so this past summer I decided to start filling in the gaps.
 
-The 555 timer seemed like the right place to begin. It's the most-produced integrated circuit in history. Hobbyists have been doing wild things with it since 1972. And it turns out the whole chip is just a couple of comparators, a flip-flop, and a transistor — genuinely elegant once you actually look at it. I breadboarded a few configurations, had fun, and then PCBway announced their summer design contest. The prize for *just entering* was a Raspberry Pi Pico 2. That was enough motivation to try making my first PCB.
+The 555 timer seemed like the right place to begin. It's the most-produced integrated circuit in history. Hobbyists have been doing wild things with it since 1972. And it turns out the whole chip is just a couple of comparators, a flip-flop, and a transistor — genuinely elegant once you actually look at it. I breadboarded a few configurations, had fun, and then PCBway announced their summer design contest. The prize for _just entering_ was a Raspberry Pi Pico 2. That was enough motivation to try making my first PCB.
 
 ---
 

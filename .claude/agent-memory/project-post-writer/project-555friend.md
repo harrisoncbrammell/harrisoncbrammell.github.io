@@ -13,6 +13,7 @@ GitHub: https://github.com/harrisoncbrammell/555friend
 Key technologies: KiCad, 555 timer (TLC555), CD4052B analog multiplexer, 4D24 binary counter, 4555 decoder, SMD passives
 
 Image assets copied to `assets/img/555friend/`:
+
 - `pcb-render.png` — downloaded from GitHub raw URL (the green KiCad 3D render)
 - `shape-iter-01-original.png` through `shape-iter-05-final-attempt.png` — board outline iteration sequence from Downloads
 - `back-trace.png` — back copper layer showing Vcc routed inside ground plane

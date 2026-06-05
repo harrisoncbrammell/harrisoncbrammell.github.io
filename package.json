@@ -1,6 +1,10 @@
 {
+  "scripts": {
+    "check": "prettier . --check",
+    "format": "prettier . --write"
+  },
   "devDependencies": {
-    "@shopify/prettier-plugin-liquid": "^1.10.0",
+    "@shopify/prettier-plugin-liquid": "^1.10.2",
     "prettier": "^3.8.0"
   }
 }
