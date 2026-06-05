@@ -132,7 +132,11 @@ Here's how it turned out:
 
 The board has the 555 timer (a TLC555, chosen for its lower power consumption) at the center, mode indicator LEDs along one edge, jumper headers for swapping resistor and capacitor values, a pushbutton to advance modes, and a 4-pin header for the external drive breakout. The silkscreen diagrams cover astable, monostable, and bistable modes with their formulas.
 
-Does it work? I don't know yet — I haven't had it manufactured. But the design rules check passes, the Gerbers look correct in the 3D viewer, and PCBway accepted the files. At some point I'll actually order a run and find out.
+Does it work? I don't know yet — I haven't had it manufactured. But the design rules check passes, the Gerbers look correct in the 3D viewer, and PCBway accepted the files. At some point I'll actually order a run and find out. If you want to order one yourself before I get around to it, the project is shared on PCBway:
+
+<div class="text-center">
+  <a href="https://www.pcbway.com/project/shareproject/The_555friend_A_learning_aid_for_the_legandary_555_timer_ceb3dad3.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+</div>
 
 ---
 
