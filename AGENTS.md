@@ -72,6 +72,42 @@ When modifying `_config.yml`, these **must be updated together**:
 | Liquid templates (`_includes/`, `_layouts/`)  | [liquid-templates.instructions.md](.github/instructions/liquid-templates.instructions.md)       |
 | JavaScript (`_scripts/`)                      | [javascript-scripts.instructions.md](.github/instructions/javascript-scripts.instructions.md)   |
 
+## Projects Section (`_projects/`)
+
+Each project is a Markdown file in `_projects/`. Files are sorted by `importance` (ascending) within each category.
+
+### Front Matter Reference
+
+| Field                  | Required | Description                                                                 |
+| ---------------------- | -------- | --------------------------------------------------------------------------- |
+| `layout: page`         | yes      | Always `page`                                                               |
+| `title`                | yes      | Displayed as the card title and page heading                                |
+| `description`          | yes      | Short blurb shown on the card                                               |
+| `importance`           | yes      | Integer — lower number = higher position in the grid                        |
+| `category`             | yes      | Must match a value in `display_categories` in `_pages/projects.md` (currently `work` or `fun`) |
+| `img`                  | no       | Path to thumbnail image (e.g. `assets/img/foo.jpg`); omit for no thumbnail  |
+| `redirect`             | no       | External URL — clicking the card goes here instead of the project page      |
+| `github`               | no       | GitHub repo URL — renders a GitHub icon with link on the card               |
+| `github_stars`         | no       | GitHub repo identifier (e.g. `username/repo`) to display live star count    |
+| `giscus_comments: true`| no       | Enables Giscus comment section at the bottom of the project page            |
+| `related_publications: true` | no | Pulls related bibliography entries onto the project page               |
+
+### Categories
+
+Categories are defined in `_pages/projects.md` under `display_categories`. Currently: `work`, `fun`. To add a new category, add it to that list and use it as the `category` value in project files.
+
+### Naming Convention
+
+Files are named `<N>_project.md` where `N` is a number. The number in the filename is just for ordering in the filesystem — actual display order is controlled by `importance`.
+
+### Image Best Practices
+
+- Store project images in `assets/img/`
+- Use `loading="eager"` for above-the-fold images, lazy loading is enabled site-wide otherwise
+- Wrap images in Bootstrap grid rows: `<div class="row">` → `<div class="col-sm mt-3 mt-md-0">`
+- Include `{% include figure.liquid ... class="img-fluid rounded z-depth-1" %}` for consistent styling
+- Follow a `<div class="caption">` block with caption text after each row
+
 ## Common Issues
 
 For troubleshooting, see:
