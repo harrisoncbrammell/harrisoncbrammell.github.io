@@ -153,4 +153,6 @@ A few things I want to do with this project:
 
 This was a genuinely fun project to work on, even when I was losing my mind over routing. I learned more KiCad in two weeks than I thought I'd pick up in six months, and I have a much better intuition for why analog PCB layout decisions matter. The 555 timer is a great chip to learn with — simple enough to reason about completely, but flexible enough that you can keep finding new things to do with it.
 
-If you're a CS person thinking about making the jump into analog circuits or PCB design, I'd say just do it. The tools are free, the fabrication is cheap, and the worst case is you make a board that doesn't work and you learn why. Files are on GitHub if you want to look at the schematic or take the design somewhere.
+If you're a CS person thinking about making the jump into analog circuits or PCB design, I'd say just do it. The tools are free, the fabrication is cheap, and the worst case is you make a board that doesn't work and you learn why. Schematics, KiCad project files, and Gerbers are all on GitHub if you want to poke around or take the design somewhere:
+
+**[github.com/harrisoncbrammell/555friend](https://github.com/harrisoncbrammell/555friend)**

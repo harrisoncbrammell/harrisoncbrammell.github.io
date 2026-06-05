@@ -119,6 +119,10 @@ Harrison's writing style for project posts and site copy:
 
 When writing any site copy or project posts, keep this voice in mind. Avoid template-sounding filler text.
 
+## Project Post Requirements
+
+Every project post **must** include an explicit link to the project's resources (GitHub repo, demo, writeup, etc.) somewhere in the post body — not just in the front matter. The `github:` front matter field only renders a small icon on the project card; it does not appear inside the post. A bolded markdown link near the end of the post (e.g. `**[github.com/user/repo](https://github.com/user/repo)**`) is the minimum. If there are multiple resources (repo, live demo, dataset, etc.), list all of them.
+
 ## Common Issues
 
 For troubleshooting, see:
